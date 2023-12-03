@@ -1,6 +1,6 @@
 # WebPack , Babel , ESLint , JEST (мой шаблон)
 
-Мой шаблон, включающий в себя WebPack, Babel и ESLint + правильную структуру папок.
+Мой шаблон, включающий в себя WebPack, Babel, ESLint и JEST + правильную структуру папок.
 
 Команды для терминала:
 - npm start: "webpack serve --mode development"
